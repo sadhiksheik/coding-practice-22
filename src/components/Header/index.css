@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  height: 300px;
+  width: 100wh;
+}
+.header-img {
+  display: flex;
+}
+.blogs-container {
+  display: flex;
+}
+.headings {
+  color: white;
+  font-size: 25px;
+  margin-right: 15px;
+}
